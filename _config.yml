@@ -13,4 +13,4 @@ sass:
   sass_dir: _sass
 
 icon: ./assets/img/icon.jpg
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
